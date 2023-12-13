@@ -5,3 +5,15 @@
     border: royalblue 2cm;
     border-style: groove;
 }
+.lista{
+    border:double deeppink 10 px; 
+    background-color: black;
+    color: gold;
+    font-size: 25px;
+}
+
+#link-seliga:hover{
+    font-size: 30px;
+  color: chartreuse;
+}
+    
